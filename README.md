@@ -9,3 +9,7 @@ This is a TypeScript version of the the above video
 
 #### Adding locally hosted code to GitHub
  - [Docs](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github)
+
+ ---
+ ### Jest for TypeScript
+ - [Docs](https://jestjs.io/docs/getting-started#using-typescript)
