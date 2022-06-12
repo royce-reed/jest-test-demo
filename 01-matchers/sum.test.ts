@@ -6,4 +6,9 @@ describe('sum', () => {
     const result = sum(1, 2);
     expect(result).toBe(3);
   });
+  it('should be greater than or equal to 5', () => {
+    const result = sum(3, 2);
+    expect(result).toBeGreaterThanOrEqual(5);
+  });
+
 });

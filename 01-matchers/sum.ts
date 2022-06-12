@@ -5,6 +5,6 @@ const sum = (a: number, b: number): number => {
 }
 
 // console.log(sum(1, 2));
-// $ npx ts-node sum.ts
+// $ npx ts-node 01-matchers/sum.ts
 
 export default sum;
