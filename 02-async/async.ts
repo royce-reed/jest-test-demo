@@ -6,7 +6,7 @@ const fetchData = (id: number): Promise<any> => {
     .then(res => res.data)
     // .catch(err => console.error(err));  
 }
-// console.log(fetchData(1));
+console.log(fetchData(1));
 
 
 //******************************************************************/
