@@ -13,3 +13,10 @@ This is a TypeScript version of the the above video
  ---
  ### Jest for TypeScript
  - [Docs](https://jestjs.io/docs/getting-started#using-typescript)
+
+  ---
+  ### GitHub Actions 
+
+ ```
+ git push --set-upstream origin test
+  ```
